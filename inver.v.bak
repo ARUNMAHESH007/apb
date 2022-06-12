@@ -1,0 +1,5 @@
+module inv(a,y);
+input a;
+output reg y;
+assign y=~a;
+endmodule

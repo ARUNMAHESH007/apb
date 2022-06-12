@@ -1,0 +1,163 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples
+T_opt
+!s110 1654100223
+VZICd`4^J1XWV8l[oU=eHd1
+04 9 4 work slave_apb fast 0
+=1-74867a68c529-629790fe-388-3218
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1654592601
+V8ciKZezVB_Q=?Y73XaG]^3
+04 10 4 work master_apb fast 0
+=1-74867a68c529-629f1457-294-21a0
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1653635970
+VM2ZZLjCeLd2jHZd9RAAZ42
+04 5 4 work andtb fast 0
+=1-74867a68c529-62907b81-285-3f4
+R1
+R2
+n@_opt2
+R3
+R0
+vandg
+!s110 1653635949
+!i10b 1
+!s100 MYCLkQcbLTZ3CTzZAd?ZU0
+I3_KbLX0kEQ99Nb]_djYcA2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dE:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work
+w1653635504
+8E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/and.v
+FE:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/and.v
+L0 2
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1653635949.000000
+!s107 E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/and.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/and.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vandtb
+!s110 1653635950
+!i10b 1
+!s100 ]5HG]0?kg]IHoCC8DWGoB3
+IjAcT_W90>J4NZORG8_6z41
+R4
+R5
+w1653635945
+8E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/andtb.v
+FE:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/andtb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1653635950.000000
+!s107 E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/andtb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/andtb.v|
+!i113 0
+R7
+R2
+vinv
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 i]M2Jdi5EOVPzEh`=GjeF1
+I]UEf[l<D59hn<;A_T8aTi1
+R5
+w1653634276
+8E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/inver.v
+FE:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/inver.v
+L0 1
+R6
+Z8 !s108 1653634375.000000
+!s107 E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/inver.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/inver.v|
+!i113 0
+R7
+R2
+vinvertertb
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 KV1^5bY=QgP[]0o8K23U20
+IOkTaRhRU<foJKfVE`=hPD3
+R5
+w1653634362
+8E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/invertb.v
+FE:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/invertb.v
+L0 1
+R6
+R8
+!s107 E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/invertb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/invertb.v|
+!i113 0
+R7
+R2
+vmaster_apb
+Z9 !s110 1654592547
+!i10b 1
+!s100 9JFn_YIHad9f5X?Va^^kQ0
+IROfmJBNcT^A1aiz`>@^2k0
+R4
+R5
+w1654592544
+8E:\_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64\examples\work\master_apb.v
+FE:\_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64\examples\work\master_apb.v
+L0 8
+R6
+r1
+!s85 0
+31
+Z10 !s108 1654592547.000000
+!s107 E:\_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64\examples\work\master_apb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64\examples\work\master_apb.v|
+!i113 0
+R7
+R2
+vslave_apb
+R9
+!i10b 1
+!s100 <7fehF13l^^^0ecnO`g9=3
+IT9;6M^1j`Jo4DS?1JJ;WE1
+R4
+R5
+w1654099944
+8E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/slave_apb.v
+FE:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/slave_apb.v
+L0 6
+R6
+r1
+!s85 0
+31
+R10
+!s107 E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/slave_apb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/slave_apb.v|
+!i113 0
+R7
+R2

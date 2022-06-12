@@ -1,0 +1,9 @@
+E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/slave_apb.v {2 {vlog -work work -vopt -stats=none E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/slave_apb.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module slave_apb
+** Warning: E:/_Getintopc.com_Mentor_Graphics_QuestaSim_10.6cx64/examples/work/slave_apb.v(74): (vlog-2182) 'mem' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	slave_apb
+
+} {} {}}
